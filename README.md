@@ -39,7 +39,7 @@ Prereqs:
     - explain how html can make additional requests. show network tab. find ajax call. remind about json
 
 
-
+- talk about kimonolabs and others
 - from here can do insidermonkey or audience call
 - insidermonkey example
 - show chrome network tab. explain async calls
