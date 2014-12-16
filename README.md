@@ -9,13 +9,12 @@ Prereqs:
 ```Let me start by saying that I am a sadochist scraper and I will get your database if I want it. This goes the same for other scrapers who I am sure are more persistent than even I am. It will be more of a pain than usual, but I will get the data. I always get the data.```
 - Scraper Manifesto
 
-
 - why scrape? automated process to collect information from a website
     - can be less mistakes than human
     - can be scheduled to run
     - faster
     - restructure data
-    - more extensible (change params)
+    - more extensible (change parameters)
     - more fun
 
 
